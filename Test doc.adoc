@@ -1,1 +1,24 @@
-:docname Test
+:docname: Test
+:lang: vi
+:doctype: book
+:toc: left
+:toclevels: 2
+:toc-title: Mục lục
+:sectnums: 1
+:sectnumlevels: 4
+:table-caption: Bảng
+:figure-caption: Sơ đồ
+:example-caption: VD
+:icons: font
+
+= Test
+//tag::doc_ver[]
+Ver 1.0
+//end::doc_ver[]
+
+== Mở đầu
+Dùng để test cách viết doc
+
+== Nội dung
+=== BP01.02
+Mục đích: Nhận và lưu trữ data TICK nhận được từ server thượng tầng thông qua Databus sử dụng Kafka
