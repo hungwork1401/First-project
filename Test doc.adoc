@@ -22,3 +22,21 @@ Dùng để test cách viết doc
 == Nội dung
 === BP01.02
 Mục đích: Nhận và lưu trữ data TICK nhận được từ server thượng tầng thông qua Databus sử dụng Kafka
+
+=== BP03
+Mục đích: 
+
+=== BP04
+Mục đích: 
+
+=== BP05
+Mục đích: 
+
+=== BP06
+Mục đích: 
+
+=== BP07
+Mục đích: 
+
+=== BP08
+Mục đích: Là hệ thống quản lý vận hành các service khác
